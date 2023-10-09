@@ -1,0 +1,30 @@
+.dull{
+    background-color: rgb(245, 245, 245);
+}
+.fnt{
+    font-size: 60px;
+}
+.clr{
+    color: rgb(183, 73, 128);
+}
+.pur{
+    background-color: rgb(183, 73, 128);;
+}
+.pad{
+    padding-top: 170px;
+}
+.tbc{
+    background-color: rgb(223,242 ,227 );
+}
+.tbp{
+    background-color: rgb(250, 225, 227);
+}
+.mgn{
+    margin-left: 200px;
+}
+.tbl{
+    background-color: rgb(187,206,228);
+}
+.vdo{
+    background-color: rgb(245,249,252);
+}
